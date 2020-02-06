@@ -3,7 +3,6 @@
 A simple Tic-Tac-Toe game implemented in Javascript V8 3.14.5.9
 Execute using NodeJS
 
-# Tic Tac Toe OOP (Object Oriented Programming)
 
 -   Original project specification at [The Odin Project](https://www.theodinproject.com/courses/ruby-programming/lessons/oop)
 -   Tic-Tac-Toe [From Wikipedia](https://en.wikipedia.org/wiki/Tic-tac-toe) for more details about Tic-Tac-Toe.
